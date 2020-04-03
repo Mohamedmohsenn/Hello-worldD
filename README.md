@@ -1,1 +1,1 @@
-Games with python
+little games with python
